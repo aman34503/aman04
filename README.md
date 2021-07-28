@@ -19,11 +19,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![Spotify]
-   <a href= "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t?si=PKG4xhVNR6OLiYVU8KC6ng&dl_branch=1"><img alt ="spotify" src = " https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align ="right"/>
-
 
 ---
   
