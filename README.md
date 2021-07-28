@@ -25,7 +25,7 @@
                 <a href= "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t?si=PKG4xhVNR6OLiYVU8KC6ng&dl_branch=1"><img alt ="spotify" src = " https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align ="right"/>
 
 
-
+---
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Languages and Tools
