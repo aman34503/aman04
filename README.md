@@ -21,7 +21,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t?si=PKG4xhVNR6OLiYVU8KC6ng&dl_branch=1)](https://open.spotify.com/user/aman01)
+[![Spotify]<img alt ="spotify" src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align ="right"/>
+                (https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t?si=PKG4xhVNR6OLiYVU8KC6ng&dl_branch=1)](https://open.spotify.com/user/aman01)
 
 ---
 
